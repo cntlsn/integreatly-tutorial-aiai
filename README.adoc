@@ -1,8 +1,10 @@
+test
+
 :launchURL: https://developers.redhat.com/launch
 
 = Fuse Aggregation
 
-The booster demonstrates how to aggregate JSON data from 2 services using Camel. 
+The booster demonstrates how to aggregate JSON data from 2 services using Camel.
 
 Use this booster to:
 
@@ -10,7 +12,7 @@ Use this booster to:
 These services are configured to be local service beans by default. However, you can change the camel routing to fetch data from 2 mock servers (included in this booster).
 
 * Browse the API's Swagger page.
-                
+
 == Deployment options
 
 You can run this booster in the following modes:
